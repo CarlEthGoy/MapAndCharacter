@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapAndCharacter", "MapAndCharacter.csproj", "{28DB2847-9C34-4463-811F-FBB1D91DAFDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{ABF0F6CB-AD52-4C99-9B98-808DACDBE7A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{28DB2847-9C34-4463-811F-FBB1D91DAFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28DB2847-9C34-4463-811F-FBB1D91DAFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28DB2847-9C34-4463-811F-FBB1D91DAFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF0F6CB-AD52-4C99-9B98-808DACDBE7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF0F6CB-AD52-4C99-9B98-808DACDBE7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF0F6CB-AD52-4C99-9B98-808DACDBE7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF0F6CB-AD52-4C99-9B98-808DACDBE7A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
